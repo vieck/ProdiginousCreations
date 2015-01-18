@@ -3,7 +3,7 @@ title: Prodiginous Creations
 email: prodiginouscreations@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Prodiginous Creations! At this website, you will find many awesome projects so look around a little and see if you find anything that catches your eye.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/ProdiginousCreations" # the subpath of your site, e.g. /blog/
 url: "http://localhost:4000" # the base hostname & protocol for your site
 github_username:  vieck
 url: "https://github.com/vieck/Portfolio/" # the base hostname & protocol for your site
