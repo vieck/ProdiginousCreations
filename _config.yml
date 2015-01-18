@@ -10,11 +10,11 @@ twitter_username: mvieck3
 
 navigation:
  - title: Home
-   url: /index.html
- - title: Projects
-   url: /projects.html
+   url: /ProdiginousCreations/index.html
+ - title: /ProdiginousCreations/Projects
+   url: /ProdiginousCreations/projects.html
  - title: About
-   url: /about.html
+   url: /ProdiginousCreations/about.html
 
 # Build settings
 markdown: kramdown
