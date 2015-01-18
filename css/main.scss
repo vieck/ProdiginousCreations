@@ -1,0 +1,104 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+/****************************
+******* Projects.html *******
+****************************/
+h1.centered-title {
+  text-align: center;
+  font-size: 30pt;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: oblique;
+}
+
+div.Default-Theme {
+  text-align: center;
+  margin-top: 20px;
+  margin: 10px auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/****************************
+******* about.html *******
+****************************/
+h1.project-name {
+   color: #43dcdc;
+ }
+ 
+ h2.project-name {
+   color: #F0F8FF;
+ }
+
+div.self-image {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+ol.skills-list {
+  color: #C45AEC;
+}
+/****************************
+******* index.html *******
+****************************/
+#menu ul {
+  height: auto;
+  line-height: 56px;
+  margin: 0px;
+}
+
+#menu li {
+  display: inline;
+  padding: 20px;
+}
+
+#menu a {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 26px;
+}
+// Our variables
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color: #ffe200;
+$background-color: #000000;
+$brand-color:      #2a7ae2;
+
+$grey-color: #43dcdc;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
