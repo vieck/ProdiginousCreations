@@ -7,8 +7,8 @@ categories: jekyll update
 I suppose I should extend the red carpet for you discovering my blog! Since this is my first post,
 I'll discuss what plans I have for this site and any future updates on the way.
 
-<h2 class="">What's In Store</h2>
----------------------------------
+What's In Store
+---------------
 I have lots of big plans for this website. 
 Firstly, it will showcase all of my projects including any new apps I create, so stay tuned!
 Secondly, I will also be hosting my classes from Udemy here. If you don't know what Udemy is,
