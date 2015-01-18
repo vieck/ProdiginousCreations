@@ -17,12 +17,18 @@ div.Default-Theme {
 /****************************
 ******* about.html *******
 ****************************/
-h2.project-name {
+h1.project-name {
   color: #43dcdc; }
+
+h2.project-name {
+  color: #F0F8FF; }
 
 div.self-image {
   max-width: 100%;
   max-height: 100%; }
+
+ol.skills-list {
+  color: #C45AEC; }
 
 /****************************
 ******* index.html *******

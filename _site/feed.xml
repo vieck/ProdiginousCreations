@@ -4,10 +4,10 @@
     <title>Prodiginous Creations</title>
     <description>Welcome to Prodiginous Creations! At this website, you will find many awesome projects so look around a little and see if you find anything that catches your eye.
 </description>
-    <link>https://github.com/vieck/Portfolio//</link>
-    <atom:link href="https://github.com/vieck/Portfolio//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Jan 2015 17:53:56 -0500</pubDate>
-    <lastBuildDate>Sat, 17 Jan 2015 17:53:56 -0500</lastBuildDate>
+    <link>https://github.com/vieck/Portfolio//ProdiginousCreations/</link>
+    <atom:link href="https://github.com/vieck/Portfolio//ProdiginousCreations/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 18 Jan 2015 15:58:53 -0500</pubDate>
+    <lastBuildDate>Sun, 18 Jan 2015 15:58:53 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -34,8 +34,8 @@ If you have questions, you can ask them on &lt;a href=&quot;https://github.com/j
 
 </description>
         <pubDate>Thu, 15 Jan 2015 14:44:46 -0500</pubDate>
-        <link>https://github.com/vieck/Portfolio//jekyll/update/2015/01/15/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://github.com/vieck/Portfolio//jekyll/update/2015/01/15/welcome-to-jekyll.html</guid>
+        <link>https://github.com/vieck/Portfolio//ProdiginousCreations/jekyll/update/2015/01/15/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://github.com/vieck/Portfolio//ProdiginousCreations/jekyll/update/2015/01/15/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
