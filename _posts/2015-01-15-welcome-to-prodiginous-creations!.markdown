@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-01-15 19:44:46
+title:  "Welcome to Prodiginous Creations!"
+date:   2015-01-18 16:22:46
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory.
