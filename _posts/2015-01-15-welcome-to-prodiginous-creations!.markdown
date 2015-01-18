@@ -4,28 +4,14 @@ title:  "Welcome to Prodiginous Creations!"
 date:   2015-01-18 16:22:46
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory.
-Go ahead and edit it and re-build the site to see your changes.
-You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`,
-which launches a web server and auto-regenerates your site when a file is updated.
+I suppose I should extend the red carpet for you discovering my blog! Since this is my first post,
+I'll discuss what plans I have for this site and any future updates on the way.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext`
-and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll.
-File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh].
-If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+What's In Store
+---------------
+I have lots of big plans for this website. 
+Firstly, it will showcase all of my projects including any new apps I create, so stay tuned!
+Secondly, I will also be hosting my classes from Udemy here. If you don't know what Udemy is,
+it is a paid video publication site that teaches students a skill. It is quite similar to YouTube,
+however the main difference is the quality of content and videos hosted on Udemy. You can check out
+my profile over <a href="https://www.udemy.com/u/michaelvieck/">here</a> and see if you would like to sign up.
