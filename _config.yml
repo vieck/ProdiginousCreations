@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Welcome to Prodiginous Creations! At this website, you will find many awesome projects so look around a little and see if you find anything that catches your eye.
 baseurl: "/ProdiginousCreations" # the subpath of your site, e.g. /blog/
 github_username:  vieck
-url: "https://github.com/vieck/Portfolio/" # the base hostname & protocol for your site
+url: "https://github.com/vieck/ProdiginousCreations/" # the base hostname & protocol for your site
 twitter_username: mvieck3
 
 navigation:
