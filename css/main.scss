@@ -60,7 +60,16 @@ ol.skills-list {
 /****************************
 ******* welcome.html *******
 ****************************/
-****************************/
+#welcome-image{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("../Images/Website-Intro.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
 div.welcome {
   text-align: center;
   margin-top: 20px;
