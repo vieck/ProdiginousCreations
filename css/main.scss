@@ -60,15 +60,10 @@ ol.skills-list {
 /****************************
 ******* welcome.html *******
 ****************************/
-#image{
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-image: url("../Images/Website-Intro.png");
-  background-repeat: no-repeat;
-  background-size: contain;
+#welcome-image {
+  max-width: 100%;
+  max-height: 100%;
+  vertical-align: middle;
 }
 
 // Our variables
